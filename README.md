@@ -1,1 +1,19 @@
-# Machine_learning_prediction_for_loan_approval
+# Project Overview/introduction
+
+
+# Dataset
+
+
+# Questions/Hypothesis
+
+
+# Data constraints
+
+
+# Analysis
+
+
+# Result 
+
+
+# Conclusion
