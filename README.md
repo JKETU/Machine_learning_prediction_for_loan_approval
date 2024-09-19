@@ -4,7 +4,7 @@
 
 
 ## Project Overview 📑
-W are developing a machine learning model to predict whether a loan will be approved or rejected based on various features of the applicants. 
+We are developing a machine learning model to predict whether a loan will be approved or rejected based on various features of the applicants. 
 This prediction helps the bank make informed lending decisions.
 
 ## Dataset 
@@ -30,7 +30,7 @@ Normalization/Standardization: The dataset was normalized and standardized to se
 ### Techniques used 🧰
 1. **Logistic Regression**: Used as a baseline model.
 2. **K-Nearest Neighbors (KNN)**: Chosen for its simplicity and effectiveness in instance-based learning.
-3. **Random Forest**: An ensemble method that improves prediction accuracy by reducing overfitting.
+3. **Decision Trees**: An ensemble method that improves prediction accuracy by reducing overfitting.
 
 ## Model performances and Key findings 🗝️
 - **Logistic Regression**:
@@ -43,8 +43,8 @@ Normalization/Standardization: The dataset was normalized and standardized to se
   - Standardized Model:
     - Similar performance metrics, indicating stability across different scaling methods.
 
-- **Random Forest**:
-  - Both normalized and standardized versions achieved accuracy rates of approximately 98%, highlighting its effectiveness for this classification problem.
+- **Decision Tree**:
+  - Both normalized and standardized versions achieved accuracy rates of approximately 97%, highlighting its effectiveness for this classification problem.
 
 - **KNN**:
   - Normalized Model:
@@ -56,7 +56,7 @@ Normalization/Standardization: The dataset was normalized and standardized to se
     - Slightly lower performance metrics compared to the normalized version.
 
 ## Result 📈
-The evaluation of the models highlighted Random Forest as the most effective model for predicting loan approvals. 
+The evaluation of the models highlighted Decision Tree as the most effective model for predicting loan approvals. 
 Logistic Regression and KNN also provided strong performance but were outperformed by the ensemble method.
 
 ## Conclusion : ✔️
