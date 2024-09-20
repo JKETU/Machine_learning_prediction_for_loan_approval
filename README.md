@@ -45,6 +45,7 @@ Normalization/Standardization: The dataset was normalized and standardized to se
 
 - **Decision Tree**:
   - Both normalized and standardized versions achieved accuracy rates of approximately 97%, highlighting its effectiveness for this classification problem.
+  - Precision: 98%
 
 - **KNN**:
   - Normalized Model:
