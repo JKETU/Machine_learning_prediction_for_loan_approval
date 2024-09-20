@@ -57,9 +57,13 @@ Normalization/Standardization: The dataset was normalized and standardized to se
 
 ## Result 📈
 The evaluation of the models highlighted Decision Tree as the most effective model for predicting loan approvals. 
-Logistic Regression and KNN also provided strong performance but were outperformed by the ensemble method.
+Logistic Regression and KNN also provided strong performance but were outperformed by the Decision Tree.
+Credit Score is the most influential feature, indicating its critical role in determining loan approvals.
 
 ## Conclusion : ✔️
 The project demonstrated how machine learning can enhance decision-making in the banking sector. 
 By analyzing various features and their impact, we were able to build robust predictive models. 
 Future work could include exploring advanced algorithms, incorporating additional features, and improving model interpretability.
+
+## Sources:
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset 
